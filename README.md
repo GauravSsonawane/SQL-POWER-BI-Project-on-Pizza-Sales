@@ -1,2 +1,5 @@
-This projects involve the use of SQL Queries along with Power BI dashboard to represent the Pizaa Sales info
-The images have also been attached of the POWER BI dashboard , to run the .pbix file please install POWER BI first
+## Creating a Dashboard for pizza sales
+
+Built a Power BI dashboard analyzing $817K in pizza sales of around 50K pizzas to drive business insights. Used Power BI for daily/monthly sales, identify peak sales
+and best/worst pizzas for targeted inventory control. Power BI results validated with SQL queries to ensure accuracy in metrics like total revenue and pizzas sold.
+
